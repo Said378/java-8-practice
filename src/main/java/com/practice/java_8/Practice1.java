@@ -11,12 +11,12 @@ public class Practice1 {
 	 * 
 	 * @param Strings is the collection of data that we can operate on.
 	 * 
-	 *                some methods of stream object are called intermediate
-	 *                operations that are instructions of things to do, but do not
-	 *                return anything.
+	 * some methods of stream object are called intermediate
+	 * operations that are instructions of things to do, but do not
+	 * return anything.
 	 * 
-	 *                some methods of stream object are called terminal operations
-	 *                that are methods that return something to you.
+	 * some methods of stream object are called terminal operations
+	 * that are methods that return something to you.
 	 * 
 	 */
 
